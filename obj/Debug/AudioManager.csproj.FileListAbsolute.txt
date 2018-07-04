@@ -1,0 +1,10 @@
+C:\School\Comp3931\AudioManager\AudioManager\bin\Debug\AudioManager.exe.config
+C:\School\Comp3931\AudioManager\AudioManager\bin\Debug\AudioManager.exe
+C:\School\Comp3931\AudioManager\AudioManager\bin\Debug\AudioManager.pdb
+C:\School\Comp3931\AudioManager\AudioManager\obj\Debug\AudioManager.csprojResolveAssemblyReference.cache
+C:\School\Comp3931\AudioManager\AudioManager\obj\Debug\AudioManager.Form1.resources
+C:\School\Comp3931\AudioManager\AudioManager\obj\Debug\AudioManager.Properties.Resources.resources
+C:\School\Comp3931\AudioManager\AudioManager\obj\Debug\AudioManager.csproj.GenerateResource.Cache
+C:\School\Comp3931\AudioManager\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\School\Comp3931\AudioManager\AudioManager\obj\Debug\AudioManager.exe
+C:\School\Comp3931\AudioManager\AudioManager\obj\Debug\AudioManager.pdb
